@@ -1,3 +1,8 @@
+<img src="banner.png" width="100%" />
+
+
+
+
 # 👋 Hi, ich bin Tamira
 
 **SAP Key User | Logistik | IT | Webentwicklung**
