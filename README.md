@@ -76,10 +76,13 @@ Interaktives Dashboard mit Live-Daten (CoinGecko API)
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tamira70&show_icons=true&theme=tokyonight)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Tamira70&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tamira70&layout=compact&theme=tokyonight)
-
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamira70&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 ---
 
 ## 🎯 Ziel
