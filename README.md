@@ -72,17 +72,7 @@ Interaktives Dashboard mit Live-Daten (CoinGecko API)
 👉 [🌐 Live Demo](https://bewerbungsprofil.tamira12.duckdns.org/portfolio-dashboard/)
 👉 [💻 GitHub](https://github.com/Tamira70/crypto-dashboard)
 
----
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Tamira70&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tamira70&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 ---
 
 ## 🎯 Ziel
