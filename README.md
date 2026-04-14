@@ -90,7 +90,7 @@ Ich suche eine Position im Bereich:
 ## 📫 Kontakt
 
 * 📧 [tamira.morgner@web.de](mailto:tamira.morgner@web.de)
-* 🌐 Portfolio: https://bewerbungsprofil.tamira12.duckdns.org/
+
 
 ---
 
