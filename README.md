@@ -128,7 +128,7 @@ Ich suche eine Position im Bereich:
 ## 📫 Kontakt
 
 - 📧 [tamira.morgner@web.de](mailto:tamira.morgner@web.de)
-- 💻 [GitHub: Tamira70](https://github.com/Tamira70)
+
 
 ---
 
