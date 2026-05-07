@@ -62,6 +62,10 @@ Fullstack-Webanwendung mit Django REST API & React zur Lagerverwaltung.
 👉 [🌐 Live Demo](https://bewerbungsprofil.tamira12.duckdns.org/inventory/)  
 👉 [💻 GitHub](https://github.com/Tamira70/smart-inventory-manager)
 
+🚧 Smart Inventory Manager v2.0 befindet sich aktuell in Entwicklung.
+
+Die neue Version erweitert das Projekt um eine ERP-ähnliche Sidebar-Navigation, Module für Einkauf, Dispo, Lager, Kundenstamm und Admin sowie einen verbesserten Inventur-Modus mit Excel-Bericht. Ziel ist eine noch praxisnähere Lager- und Prozessanwendung mit professioneller Struktur und besserer Bedienbarkeit.
+
 ---
 
 ### 🚀 Automatisierung Tool
